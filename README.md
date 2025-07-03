@@ -68,4 +68,4 @@ That's exactly why we want you here first. Help us shape this program from the g
 
 ---
 
-We will release miner and validator functionality as soon as it is ready. In the meantime join our Discord — and for additional context on Bittensor fundamentals such as mining, validation, and tokenomics, visit the official documentation at [https://docs.bittensor.com/learn/bittensor-building-blocks](https://docs.bittensor.com/learn/bittensor-building-blocks).
+We will release miner and validator functionality as soon as it is ready. In the meantime join our [Discord](https://discord.gg/uxqGqD2Ndj) — and for additional context on Bittensor fundamentals such as mining, validation, and tokenomics, visit the official documentation at [https://docs.bittensor.com/learn/bittensor-building-blocks](https://docs.bittensor.com/learn/bittensor-building-blocks).
