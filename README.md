@@ -1,4 +1,6 @@
-# README
+<h1 align="center">sundae_bar</h1>
+
+<img src="./assets/banner.png" alt="sundae_bar banner" style='width: 100%; height: auto;'>
 
 **Note:** This documentation assumes familiarity with core Bittensor concepts including Miners, Validators, and incentive mechanisms. For foundational knowledge, please refer to [https://docs.bittensor.com/learn/bittensor-building-blocks](https://docs.bittensor.com/learn/bittensor-building-blocks).
 
